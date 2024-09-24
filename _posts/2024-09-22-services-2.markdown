@@ -1,0 +1,12 @@
+---
+layout: default
+img: dog.png
+category: Services
+title: Our Web Development Services Include
+description: |
+---
+
+-   Custom Website Development
+-   E-Commerce Solutions
+-   Content Management Systems (CMS)
+-   Website Maintenance and Support

@@ -1,0 +1,14 @@
+---
+layout: default
+img: ipad.png
+category: Services
+title:
+    Welcome to B47 Labs - Your Partner in Crafting Stunning Websites and Web
+    Applications!
+description: |
+---
+
+At B47 Labs, we offer top-notch web development services to help your business
+thrive in the digital landscape. Our team of skilled developers specializes in
+creating custom websites that are not only visually appealing but also
+user-friendly and fully responsive.
