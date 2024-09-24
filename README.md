@@ -1,7 +1,7 @@
 # B47 Labs Jekyll theme
 
 Jekyll theme based on
-[B47 Labs bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
+[Landing Page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
 
 ## How to use
 
